@@ -4,7 +4,12 @@
 
 ## Current Task
 
-*Coming soon*
+**Your task is to:**
+1. Fix your code and whatever else is specified in the issue
+2. Create a pull request
+
+- Your commit message should reference the issue number
+- If the pull request doesn't have an appropriate commit message or doesn't fix the issue, it will be rejected.
 
 ## Previous Task #1
 
