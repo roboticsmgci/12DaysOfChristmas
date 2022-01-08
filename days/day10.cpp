@@ -5,7 +5,7 @@ using namespace std;
 
 string day10(int day){
 
-    string line = "";
+    string line = ""
 
     if(day == 1){
         line += "";

@@ -1,7 +1,7 @@
 #include <iostream>
 #include "day11.h"
 
-using namespace std;
+using namespace std
 
 string day11(int day){
 
