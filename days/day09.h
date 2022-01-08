@@ -1,5 +1,5 @@
-#ifndef DAY09_H
-#define DAY09_H
+#ifndef day09_h
+#define day09_h
 
 #include <string>
 

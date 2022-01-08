@@ -1,5 +1,5 @@
-#ifndef DAY06_H
-#define DAY06_H
+#ifndef day06_h
+#define day06_h
 
 using namespace std;
 

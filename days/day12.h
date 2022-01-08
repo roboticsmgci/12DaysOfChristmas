@@ -1,5 +1,5 @@
-#ifndef LEARNING_DAY12_H
-#define LEARNING_DAY12_H
+#ifndef day12_h
+#define day12_h
 
 using namespace std;
 

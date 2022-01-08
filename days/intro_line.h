@@ -1,5 +1,5 @@
-#ifndef LEARNING_INTRO_LINE_H
-#define LEARNING_INTRO_LINE_H
+#ifndef intro_line_h
+#define intro_line_h
 
 using namespace std;
 
