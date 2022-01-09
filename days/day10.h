@@ -1,5 +1,5 @@
-#ifndef LEARNING_INTRO_LINE_H
-#define LEARNING_INTRO_LINE_H
+#ifndef day10_h
+#define day10_h
 
 using namespace std;
 
