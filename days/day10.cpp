@@ -7,7 +7,7 @@ string day10(int day){
 
     string line = "";
 
-    while(day >= 10){
+    if(day >= 10 && day < 13){
         line = "Ten lords a-leaping\n";
     }
 
