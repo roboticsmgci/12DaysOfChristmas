@@ -5,7 +5,7 @@ using namespace std;
 
 string day12(int day) {
 
-    string line = ""
+    string line = "";
 
     if(day >= 12){
         line = "12 drummers drumming\n";
