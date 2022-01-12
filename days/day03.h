@@ -3,6 +3,6 @@
 
 using namespace std;
 
-string day08(int day);
+string day03(int day);
 
 #endif
