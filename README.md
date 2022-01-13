@@ -11,6 +11,20 @@
 - Your commit message should reference the issue number
 - If the pull request doesn't have an appropriate commit message or doesn't fix the issue, it will be rejected.
 
+## Assigned Days
+1. Nuha
+2. Stanley
+3. Rain
+4. Ryan
+5. Lucas
+6. Alex
+7. Anish
+8. Jessica
+9. Aris
+10. Wing
+11. Stephie
+12. William
+
 ## Previous Task #1
 
 **Your task is to:**
