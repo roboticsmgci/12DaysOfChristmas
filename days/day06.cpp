@@ -1,3 +1,4 @@
+#include <iostream>
 #include "day06.h"
 
 using namespace std;
