@@ -5,8 +5,10 @@ using namespace std;
 
 string day01(int day){
 
-    if (day >= 1) {
+    if (day == 1) {
         return "A partridge in a pear tree\n";
+    } else if (day >= 2) {
+        return "And a partridge in a pear tree\n";
     } else {
         return "";
     } 
